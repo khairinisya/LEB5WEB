@@ -52,6 +52,8 @@ PENGENALAN JAVASCRIPT
 ![Screenshot 2024-10-25 153205](https://github.com/user-attachments/assets/1026541e-0f5f-4b9a-af4d-90179b80e11f)
 Maka hasilnya lulus
 ![Screenshot 2024-10-25 153221](https://github.com/user-attachments/assets/abe5c5d6-9bfc-4936-bf22-f85086a1f3d0)
-
-
+*lalu mencoba input angka 40*
+![Screenshot 2024-10-25 111922](https://github.com/user-attachments/assets/e6aed81d-2594-4941-8bb7-a6773737906c)
+Maka hasilnya *tidak lulus*
+![Screenshot 2024-10-25 111937](https://github.com/user-attachments/assets/d8d7d5c9-e3a6-4430-a621-b6d73f1ac53e)
 
