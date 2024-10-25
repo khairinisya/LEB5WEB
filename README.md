@@ -77,4 +77,14 @@ Maka hasilnya *tidak lulus*
 *LALU MASUKAN ANGKA 8*
 ![Screenshot 2024-10-25 112353](https://github.com/user-attachments/assets/e0c86d41-28bc-452f-ad39-a3d95418ee33)
 
+-PEMBUATAN FROM BUTTON
+*membuat 4 button dimana masing - masing button mempunyai fungsi masing - masing, yaitu merubah warna background dan merubahwarna text, barikut syntax*
+![Screenshot 2024-10-25 160258](https://github.com/user-attachments/assets/54175245-f117-4e89-9cd0-100bb42a96c6)
+-HASIL
+Tampilan awal
+![Screenshot 2024-10-25 160145](https://github.com/user-attachments/assets/c92289cf-f653-48f5-9785-1aed079bda3e)
+Kemudian saya tekan button *latar belakang hijau* hasilnya
+![Screenshot 2024-10-25 160236](https://github.com/user-attachments/assets/6553e35c-40f1-4ae4-b915-07b0cee50bcd)
+Lalu menekan button *teks biru* hasilnya
+![Screenshot 2024-10-25 140009](https://github.com/user-attachments/assets/fc15aa8e-ce51-4ebe-a581-9a7dbc080ec9)
 
