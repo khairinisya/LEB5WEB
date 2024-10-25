@@ -104,4 +104,5 @@ Lalu menekan button *teks biru* hasilnya
 ![Screenshot 2024-10-25 140742](https://github.com/user-attachments/assets/80ef9e5a-128a-477d-b0bb-8819353b1fef)
 -HASIL
 ![Screenshot 2024-10-25 140521](https://github.com/user-attachments/assets/775a3669-4d7e-4c96-a350-8a2a5f56d9cd)
-![Screenshot 2024-10-25 140521](https://github.com/user-attachments/assets/61a64255-ce63-4eec-92c8-dcd360034ada)
+![Screenshot 2024-10-25 140604](https://github.com/user-attachments/assets/9bdebd66-43b3-4d16-a0e8-3a07904d4038)
+
