@@ -62,7 +62,19 @@ Maka hasilnya *tidak lulus*
 ![Screenshot 2024-10-25 154110](https://github.com/user-attachments/assets/14f73a96-b784-48f0-9796-cfcf2b41bd8d)
 -HASIL
 ![Screenshot 2024-10-25 112118](https://github.com/user-attachments/assets/f83c02c6-9aea-4cfd-a1db-4f5780e69b74)
-*MENCOBA INPUT ANGKA 3*
+*MENCOBA INPUT ANGKA 2*
 ![Screenshot 2024-10-25 154458](https://github.com/user-attachments/assets/e8f673c8-3ac3-474d-80bc-5f818b40a1e4)
 *Maka hasilnya*
 ![Screenshot 2024-10-25 154515](https://github.com/user-attachments/assets/c8fd4f2f-dab0-417f-b6b6-700ee157651e)
+
+-PEMBUATAN FROM INPUT
+*membuat form input angka lalu nanti akan ada tombol untuk menampilkan apakah angka tersebut bilangan genap atau ganjil, berikut syntaX*
+![Screenshot 2024-10-25 135535](https://github.com/user-attachments/assets/84566f40-3411-4563-8f58-db5d10db10f4)
+-HASIL
+![Screenshot 2024-10-25 155354](https://github.com/user-attachments/assets/0ed5be7b-edf8-4b9c-9e80-d16c7be4fcfe)
+*MASUKAN ANGKA 3*
+![Screenshot 2024-10-25 112315](https://github.com/user-attachments/assets/bd029b59-d9e9-41ba-962b-3a9aa1891e34)
+*LALU MASUKAN ANGKA 8*
+![Screenshot 2024-10-25 112353](https://github.com/user-attachments/assets/e0c86d41-28bc-452f-ad39-a3d95418ee33)
+
+
