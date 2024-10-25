@@ -3,7 +3,7 @@
 ## NIM  : 312310365
 ## kelas :TI 23 A.4
 
-##-PENGENALAN JAVASCRIPT
+-PENGENALAN JAVASCRIPT
 buat dokumen html dengan nama file lab5_javascript.html dengan syntax seperti berikut :
 ![Screenshot 2024-10-24 173804](https://github.com/user-attachments/assets/572b7815-d48e-40f1-8322-7ad79a86daeb)
 -HASIL
@@ -21,4 +21,11 @@ menampilkan teks dengan javascript.berikut syntax
 -HASIL
 ![Screenshot 2024-10-24 174448](https://github.com/user-attachments/assets/85b5ff5f-2f46-4661-8739-0fb67d9d2541)
 
-
+-PEMAKAIAN PROMPT
+menggunakan prompt atau input data berikut syntax
+![Screenshot 2024-10-24 174726](https://github.com/user-attachments/assets/dcdd19f9-c829-4b65-9282-d349a5ebe92e)
+-HASIL
+akan muncul seperti ini apabila kita disuruh menginput data
+![Screenshot 2024-10-24 174704](https://github.com/user-attachments/assets/52a2ea4e-4160-4c87-8821-a6da9523768c)
+setelah menginput nama,maka jadi seperti ini
+![Screenshot 2024-10-25 111937](https://github.com/user-attachments/assets/1ece31f3-3243-43c6-8842-f1bc5ff6c719)
