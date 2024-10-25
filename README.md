@@ -88,3 +88,20 @@ Kemudian saya tekan button *latar belakang hijau* hasilnya
 Lalu menekan button *teks biru* hasilnya
 ![Screenshot 2024-10-25 140009](https://github.com/user-attachments/assets/fc15aa8e-ce51-4ebe-a581-9a7dbc080ec9)
 
+-PILIHAN MENGGUNAKAN CHECKBOX DENGAN PERHITUNGAN OTOMATIS
+*membuat sebuah menu dan harga dengan checkbox dan perhitungan secara otomatis bila chechbox terceklist. Berikut syntax*
+![Screenshot 2024-10-25 140255](https://github.com/user-attachments/assets/8c5f82eb-9e5e-449a-a526-b235b5072be2)
+-HASIL
+![Screenshot 2024-10-25 140239](https://github.com/user-attachments/assets/3667f741-422d-4467-9ed4-379958432bdd)
+
+
+-PERTANYAAN DAN TUGAS
+1. *Buat script untuk melalukan validasi pada isian from*
+
+-JAWABAN 
+*membuat form validasi berupa inputan nama, email dan alamat. Bila ada yang tidak terisi makan akan muncul peringatan bahwa data kurang lengkap. Berikut syntax*
+![Screenshot 2024-10-25 140713](https://github.com/user-attachments/assets/f82b9f75-4ec2-43cb-95d5-b62e801aa518)
+![Screenshot 2024-10-25 140742](https://github.com/user-attachments/assets/80ef9e5a-128a-477d-b0bb-8819353b1fef)
+-HASIL
+![Screenshot 2024-10-25 140521](https://github.com/user-attachments/assets/775a3669-4d7e-4c96-a350-8a2a5f56d9cd)
+![Screenshot 2024-10-25 140521](https://github.com/user-attachments/assets/61a64255-ce63-4eec-92c8-dcd360034ada)
