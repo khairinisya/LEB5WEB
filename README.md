@@ -30,3 +30,4 @@ PENGENALAN JAVASCRIPT
 *setelah menginput nama,maka jadi seperti ini*
 ![Screenshot 2024-10-25 144617](https://github.com/user-attachments/assets/365a6983-abeb-4f0f-a2a6-48c3200c85fb)
 
+-
