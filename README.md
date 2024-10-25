@@ -32,6 +32,6 @@ PENGENALAN JAVASCRIPT
 
 -PEMBUATAN FUNGSI DAN CARA PEMANGGILANNYA
 *membuat sebuah fungsi dan cara memanggilnya. Berikut syntaxnya* :
-![Screenshot 2024-10-24 174726](https://github.com/user-attachments/assets/547973ed-414d-444d-bbf7-6937bf90db60)
+![Screenshot 2024-10-24 175048](https://github.com/user-attachments/assets/0f57113f-ecdd-43a6-9e3c-75d158922bae)
 -HASIL
 ![Screenshot 2024-10-24 175036](https://github.com/user-attachments/assets/b67090d6-8425-4b27-a069-cb1449f90f7e)
