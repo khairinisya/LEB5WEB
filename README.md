@@ -28,4 +28,5 @@ menggunakan prompt atau input data berikut syntax
 akan muncul seperti ini apabila kita disuruh menginput data
 ![Screenshot 2024-10-24 174704](https://github.com/user-attachments/assets/52a2ea4e-4160-4c87-8821-a6da9523768c)
 setelah menginput nama,maka jadi seperti ini
-![Screenshot 2024-10-25 111937](https://github.com/user-attachments/assets/1ece31f3-3243-43c6-8842-f1bc5ff6c719)
+![Screenshot 2024-10-25 144617](https://github.com/user-attachments/assets/365a6983-abeb-4f0f-a2a6-48c3200c85fb)
+
