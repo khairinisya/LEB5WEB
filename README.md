@@ -30,4 +30,8 @@ PENGENALAN JAVASCRIPT
 *setelah menginput nama,maka jadi seperti ini*
 ![Screenshot 2024-10-25 144617](https://github.com/user-attachments/assets/365a6983-abeb-4f0f-a2a6-48c3200c85fb)
 
--
+-PEMBUATAN FUNGSI DAN CARA PEMANGGILANNYA
+*membuat sebuah fungsi dan cara memanggilnya. Berikut syntaxnya* :
+![Screenshot 2024-10-24 174726](https://github.com/user-attachments/assets/547973ed-414d-444d-bbf7-6937bf90db60)
+-HASIL
+![Screenshot 2024-10-24 175036](https://github.com/user-attachments/assets/b67090d6-8425-4b27-a069-cb1449f90f7e)
