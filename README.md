@@ -52,8 +52,17 @@ PENGENALAN JAVASCRIPT
 ![Screenshot 2024-10-25 153205](https://github.com/user-attachments/assets/1026541e-0f5f-4b9a-af4d-90179b80e11f)
 Maka hasilnya lulus
 ![Screenshot 2024-10-25 153221](https://github.com/user-attachments/assets/abe5c5d6-9bfc-4936-bf22-f85086a1f3d0)
-*lalu mencoba input angka 40*
+*LALU MENCOBA INPUT ANGKA 40*
 ![Screenshot 2024-10-25 111922](https://github.com/user-attachments/assets/e6aed81d-2594-4941-8bb7-a6773737906c)
 Maka hasilnya *tidak lulus*
 ![Screenshot 2024-10-25 111937](https://github.com/user-attachments/assets/d8d7d5c9-e3a6-4430-a621-b6d73f1ac53e)
 
+-PENGGUNAAN OPERATOR SWITCH
+*Untuk menyeleksi suatu kondisi, disini saya akan mencoba menggunakan operator switch. Saya akan membuat inputan nilai 1 - 5, lalu bila kita memilih salah satu dari angka tersebut maka akan keluar output itu bilangan berapa. berikut syntaxnya* :
+![Screenshot 2024-10-25 154110](https://github.com/user-attachments/assets/14f73a96-b784-48f0-9796-cfcf2b41bd8d)
+-HASIL
+![Screenshot 2024-10-25 112118](https://github.com/user-attachments/assets/f83c02c6-9aea-4cfd-a1db-4f5780e69b74)
+*MENCOBA INPUT ANGKA 3*
+![Screenshot 2024-10-25 154458](https://github.com/user-attachments/assets/e8f673c8-3ac3-474d-80bc-5f818b40a1e4)
+*Maka hasilnya*
+![Screenshot 2024-10-25 154515](https://github.com/user-attachments/assets/c8fd4f2f-dab0-417f-b6b6-700ee157651e)
